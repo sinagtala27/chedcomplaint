@@ -60,7 +60,11 @@
                             type="checkbox"
                             class="form-checkbox border-0 rounded text-gray-800 ml-1 w-5 h-5"
                             style="transition: all 0.15s ease 0s;"
+<<<<<<< HEAD
                           /><span class="ml-3 text-sm font-semibold text-gray-700"
+=======
+                          /><span class="ml-2 text-sm font-semibold text-gray-700"
+>>>>>>> 1b0664029f7233e203bbf59e0ea2fac6a6af15a0
                             >Remember me</span
                           ></label
                         >
